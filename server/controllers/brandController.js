@@ -1,5 +1,5 @@
 class BrandController {
   async create(request, response) {}
-  async get(request, reponse) {}
+  async getAll(request, reponse) {}
 }
 module.exports = new BrandController();
